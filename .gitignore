@@ -1,0 +1,8 @@
+*~
+.DS_Store
+*.lock
+.svn
+*.xcworkspacedata
+*.xcyserstate
+UserInterfaceState.xcuserstate
+xcschememanagement.plist
